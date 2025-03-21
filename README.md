@@ -1,2 +1,2 @@
-# Portf-lio
+# Portfolio
 Bem-vindo ao meu portfólio! Aqui você encontra projetos que demonstram minhas habilidades.
